@@ -24,3 +24,23 @@ Roto 2
 Test 3
 
 Conflict 4
+
+
+aca
+se
+quema
+
+el cod
+ 
+  
+   
+    
+     
+      
+       
+       .
+       .
+       .
+       .
+       .
+       .
