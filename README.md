@@ -11,5 +11,5 @@ prueba dos, modificando el readme desde branch_javi
 
 21/09/22 forkeamos el repositorio de jose
 prueba de pull request 21/09 (javi)
+Aca esta todo en orden
 
-cambios locos para romper todo 
