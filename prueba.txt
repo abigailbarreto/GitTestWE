@@ -1,3 +1,13 @@
 prueba de pull request
 
+<<<<<<< HEAD
 a ver que pasa acaaaa
+=======
+Test 1 
+
+
+pruebaa
+
+/n
+
+>>>>>>> f10bbd20646c516799f172c746c65967f7cc47b8
